@@ -17,16 +17,15 @@ Nota: Fue necesario adquirir un APIKEY de openAI para llevar a cabo el ejercicio
 
 3 se escribe un RAG usando Pinecone
 
-Se hace uso de las APIKEY de adquiridas de OPEANAI y la creada en PINECONE, como se muestra a continuación : 
+Se hace uso de las APIKEY adquirida de OPEANAI y la creada en PINECONE, como se muestra a continuación : 
 
 os.environ["OPENAI_API_KEY"] = "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"
 os.environ["PINECONE_API_KEY"] = "4ce1743e-57db-4a13-9809-530ec8c90e32"
 
 ![image](https://github.com/wmorales2021/ragybdvectoriales/assets/79813722/673c1fa7-fceb-4100-aea0-dd188087d714)
 
-se realiza llamado al APIKEY DE openAI, haciendole preguntas, para lograr este objetivo, hacemos uso de la siguiente funcion, creando una instancia donde se le agraga un archivo TXT
-con la información relevante que deseamos consultar, en mi caso por ejemplo le agregué inicialmente un archivo de la segunda guerra mundial, y le hice preguntas de la segunda guerra,  acto seguido, y  para efectos de pruebas le agregué otro llamado 
-"iglesia_Dios.txt"
+se realiza llamado al APIKEY DE openAI, haciendole preguntas, para lograr este objetivo, hacemos uso de la siguiente funcion, creando una instancia donde se le agrega un archivo TXT con la información relevante que deseamos consultar, en mi caso particular, a modo de ejemplo, le agregué inicialmente un archivo de la segunda guerra mundial, y le hice preguntas de la segunda guerra,  acto seguido, y  para efectos de pruebas le agregué otro llamado 
+"iglesia_Dios.txt" y le hice preguntas de la iglesia de DIOS ministerial de jesucristo internacional como se muestra a continuación:
 
 <img width="609" alt="image" src="https://github.com/wmorales2021/ragybdvectoriales/assets/79813722/c2f0f63d-192f-4a97-927c-1ab9d1b7610b">
 
