@@ -17,7 +17,7 @@ Nota: Fue necesario adquirir un API_KEY de openAI para llevar a cabo el ejercici
 
 3 se escribe un RAG usando Pinecone
 
-Se hace uso de las API_KEY adquirida de OPEANAI y la creada en PINECONE, como se muestra a continuación : 
+Se hace uso de las API_KEY adquirida de OPENAI y la creada en PINECONE, como se muestra a continuación : 
 
 os.environ["OPENAI_API_KEY"] = "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"
 os.environ["PINECONE_API_KEY"] = "4ce1743e-57db-4a13-9809-530ec8c90e32"
