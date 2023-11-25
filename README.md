@@ -1,7 +1,8 @@
-1. Desde Python, escriba un programa para enviar mensajes a Chatgpt y recuperar respuestas.
-se procede a escribir la linea de comandos, tal como se encuentra estrucurada en la plataforma y se adjunta evidencia de la ejecución
+1. Desde Python, escriba un programa para enviar mensajes a Chatgpt y recuperar respuestas
+   
+se procede a escribir la linea de comandos, tal como se encuentra estrucurada en la plataforma https://campusvirtual.escuelaing.edu.co/ y se adjunta evidencia de la ejecución.
 
-Nota: Fue necesario adquirir un APIKEY de openAI para llevar a cabo el ejercicio 
+Nota: Fue necesario adquirir un APIKEY de openAI para llevar a cabo el ejercicio, especificamente la APIKEY (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) 
 
 ![image](https://github.com/wmorales2021/ragybdvectoriales/assets/79813722/2967ed2a-9da3-4219-bc83-8d080d36d6e2)
 
