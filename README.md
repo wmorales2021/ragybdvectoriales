@@ -1,6 +1,6 @@
 1. Desde Python, escriba un programa para enviar mensajes a Chatgpt y recuperar respuestas
    
-se procede a escribir la linea de comandos, tal como se encuentra estrucurada en la plataforma https://campusvirtual.escuelaing.edu.co/ y se adjunta evidencia de la ejecución.
+se procede a escribir la linea de comandos, tal como se encuentra estructurada en la plataforma https://campusvirtual.escuelaing.edu.co/ y se adjunta evidencia de la ejecución.
 
 Nota: Fue necesario adquirir un API_KEY de openAI para llevar a cabo el ejercicio, especificamente la API_KEY (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) 
 
@@ -24,7 +24,7 @@ os.environ["PINECONE_API_KEY"] = "4ce1743e-57db-4a13-9809-530ec8c90e32"
 
 ![image](https://github.com/wmorales2021/ragybdvectoriales/assets/79813722/673c1fa7-fceb-4100-aea0-dd188087d714)
 
-se realiza llamado al API_KEY DE openAI, haciendole preguntas; para lograr este objetivo, hacemos uso de la siguiente funcion, creando una instancia donde se le agrega un archivo TXT con la información relevante que deseamos consultar, en mi caso particular, a modo de ejemplo, le agregué inicialmente un archivo de la segunda guerra mundial, y le hice preguntas de la segunda guerra,  acto seguido, y  para efectos de pruebas le agregué otro llamado 
+se realiza llamado al API_KEY de openAI, haciendole preguntas; para lograr este objetivo, hacemos uso de la siguiente funcion, creando una instancia donde se le agrega un archivo TXT con la información relevante que deseamos consultar, en mi caso particular, a modo de ejemplo, le agregué inicialmente un archivo de la segunda guerra mundial, y le hice preguntas de la segunda guerra,  acto seguido, y  para efectos de pruebas le agregué otro archivo llamado 
 "iglesia_Dios.txt" y le hice preguntas de la iglesia de DIOS ministerial de jesucristo internacional como se muestra a continuación:
 
 <img width="346" alt="image" src="https://github.com/wmorales2021/ragybdvectoriales/assets/79813722/e9531d22-951a-4461-baf8-b877a62fcbcb">
